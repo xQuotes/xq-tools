@@ -1,6 +1,6 @@
 {
   "name": "xq-tools",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "build react and so on",
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,7 @@
     "webpack": "^1.13.3",
     "webpack-cleanup-plugin": "^0.4.1",
     "colorful": "^2.1.0",
-    "commander": "^2.9.0",
+    "commander": "^2.9.0"
   },
   "devDependencies": {
   }
