@@ -1,5 +1,12 @@
 # xq-tools
 
+## install
+
+```
+npm install -g xq-tools
+```
+
+
 ## Usage
 
 ```
