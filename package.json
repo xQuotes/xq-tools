@@ -1,6 +1,6 @@
 {
   "name": "xq-tools",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "description": "build react and so on",
   "main": "index.js",
   "scripts": {
@@ -25,8 +25,6 @@
   },
   "homepage": "https://github.com/xQuotes/xq-tools#readme",
   "dependencies": {
-    "babel": "^6.5.2",
-    "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
     "babel-eslint": "^7.1.0",
     "babel-loader": "^6.2.7",
