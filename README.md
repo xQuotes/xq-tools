@@ -19,3 +19,29 @@ $ xq-tools exe ./tools.js add func:功能1
 $ xq-tools exe ./tools.js replace func:功能1
 $ xq-tools exe ./tools.js delete func[:功能1]
 ```
+
+## server
+
+### devlopment
+
+```
+xq-tools run dev
+```
+
+
+### Build
+
+```
+xq-tools run build
+```
+
+### Start
+
+```
+xq-tools run start
+```
+
+### Browse
+
+Open your browser, you can visit `http://localhost:3000`
+
