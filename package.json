@@ -1,6 +1,6 @@
 {
   "name": "xq-tools",
-  "version": "0.3.1",
+  "version": "0.3.8",
   "description": "build react and so on",
   "main": "index.js",
   "scripts": {
