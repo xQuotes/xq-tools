@@ -9,8 +9,7 @@
   "bin": {
     "xq-tools": "./bin/xq-tools.js",
     "xq-tools-run": "./bin/xq-tools-run.js",
-    "xq-tools-exe": "./bin/xq-tools-exe.js",
-    "xq-tools-git": "./bin/xq-tools-git.js"
+    "xq-tools-exe": "./bin/xq-tools-exe.js"
   },
   "repository": {
     "type": "git",
