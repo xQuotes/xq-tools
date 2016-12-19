@@ -8,7 +8,9 @@
   },
   "bin": {
     "xq-tools": "./bin/xq-tools.js",
-    "xq-tools-run": "./bin/xq-tools-run.js"
+    "xq-tools-run": "./bin/xq-tools-run.js",
+    "xq-tools-exe": "./bin/xq-tools-exe.js",
+    "xq-tools-git": "./bin/xq-tools-git.js"
   },
   "repository": {
     "type": "git",
@@ -40,6 +42,8 @@
     "colorful": "^2.1.0",
     "commander": "^2.9.0",
     "css-loader": "^0.26.0",
+    "file-loader": "^0.9.0",
+    "url-loader": "^0.5.7",
     "ejs": "^2.5.2",
     "extract-text-webpack-plugin": "^1.0.1",
     "history": "^4.4.0",
